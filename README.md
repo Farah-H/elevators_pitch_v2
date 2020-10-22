@@ -1,6 +1,6 @@
 # Elevator's Pitch witth Power Words
 
-My name is Farah and I have a background in Chemistry and Nuclear Engineering.I am __fascinated__ by technology's ability to revolutionise our day-to-day lives and I  __loved__ the technical aspects of my studies, and specifically my Masters' Project, which was written in python. 
+My name is Farah and I have a background in Chemistry and Nuclear Engineering.I am __fascinated__ by technology's ability to __revolutionise__ our day-to-day lives and I  __loved__ the technical aspects of my studies, and specifically my Masters' Project, which was written in python. 
 
 As someone who is __incredibly__ organised and holds herself to high standards, I am __convined__ that a career in DevOps consultancy is a __perfect__ fit for me because it combines my __passion__ for technology with my __intense__ desire to be a jack of all trades and collaborate with diverse teams. Although I __thrive__ in technical environment, I have also actively developed my communication and business skills through part time employment and also __stepping into__ leadership opportunities at AIESEC, a global youth-led organisation which I have been a member if for 3 years. 
 
