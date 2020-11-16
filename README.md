@@ -1,4 +1,4 @@
-# Elevator's Pitch witth Power Words
+# Elevator's Pitch with Power Words
 
 My name is Farah and I have a background in Chemistry and Nuclear Engineering.I am __fascinated__ by technology's ability to __revolutionise__ our day-to-day lives and I  __loved__ the technical aspects of my studies, and specifically my Masters' Project, which was written in python. 
 
