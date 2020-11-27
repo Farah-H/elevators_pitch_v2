@@ -82,14 +82,17 @@ __Result__ How did your actions influence the outcome (What difference did you a
     - OOP also known as Object Orientated Programming, focuses on developing and organising software development around data, also known as objects, rather than functions and logic. OOP follows four pillars also known as the principles of OOP. These are Encapsulation, Abstraction, Inheritance and Polymorphism.
 
 - TDD:
+    ![](TDD.png)
     - TTD also known as Test Driven Development is an expansion on OOP development. It focuses on creating test objects for our software. It allows for developers to focus on the solution and passing the test cases. This also allows for easily repeatable test cases on every stage of the development to ensure that no other module or object has been hindered during the development process.
 
 STAR(TDD): Used TDD to create a calculator program, created tests for the calculator, then used OOP to make a basic functions class, than a child class to calculate the area of a triangle. 
 
 ### DevOps
 - What is DevOps?
+
     - DevOps stands for Development Operations. The goal of DevOps is to bridge the gap between the Development team and the Operations team to ensure easily scalable projects, improved communications and teamwork as well as improve the project development life cycle.
 - Why DevOps?
+    - team psychology, roles you NEED an all rounder, you need a bridge. 
     - DevOps allows an institution to narrow the gap between Developers and Operations team. This way there is lower wasted time, material and effectively cost. Often development team will put technical issues onto the operations team, meanwhile operations team may be lacking the frequency of updates that the development team requires to deliver. DevOps focuses on removing those issues by putting the two teams together, through shared responsibility, developing infrastructure as code and automating the pipeline.
 - Why did you choose DevOps?
     - DevOps combines my desire to work on technical projects and working with diverse teams on unique projects to utilise my soft skills. 
